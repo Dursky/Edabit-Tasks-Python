@@ -1,11 +1,11 @@
 # Edabit-Tasks-Python
  
-[1] - Very Easy
-[2] - Easy
-[3] - Medium
-[4] - Hard
-[5] - Very Hard
-[6] - Expert
+[1] - Very Easy<br>
+[2] - Easy<br>
+[3] - Medium<br>
+[4] - Hard<br>
+[5] - Very Hard<br>
+[6] - Expert<br>
 
 
 ### [1] - Very Easy
