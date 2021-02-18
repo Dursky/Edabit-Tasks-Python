@@ -21,3 +21,8 @@ triangle.py - Write a function that takes the base and height of a triangle and 
 stutter.py - Write a function that stutters a word as if someone is struggling to read it. The first two letters are repeated twice with an ellipsis ... and space after each, and then the word is pronounced with a question mark ?.<br>
 radians.py - Create a function that takes an angle in radians and returns the corresponding angle in degrees rounded to one decimal place.<br>
 calculator.py - Create a function that takes two numbers and a mathematical operator + - / * and will perform a calculation with the given numbers.
+
+
+### [3] - Medium
+circleSquereArea.py - Create a function, that takes an integer (radius of the circle) and returns the difference of the areas of the two squares.<br>
+lenghtNumber.py - Create a function that takes a number num and returns its length.[The use of the len() function is prohibited.]<br>
